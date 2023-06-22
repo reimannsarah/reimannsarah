@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Sarah Reimann
+
+# How to reach me:
+* reimannsarah45@gmail.com
+
+
+
 <!--
 **reimannsarah/reimannsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
