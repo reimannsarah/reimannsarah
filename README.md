@@ -6,19 +6,26 @@
 <a href="https://www.linkedin.com/in/sarah-reimann/">
   <img src="./imgs/mountains.gif">
 </a>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=reimannsarah&style=flat-square&color=blue" alt=""/>
+</div>
 </div>
 
 # Sarah Reimann
 
 ### :woman_technologist: About me:
+- :telescope: I’m in school to become a full stack web developer
+  * I've learned Javascript, C#, and React
+  * I'm interested in design! 
+
+- :seedling: Exploring functioning programming and UI design
+
+- :zap: In my free time, I read murder mysteries, make art, and I run for fun
 
 ### How to reach me:
 * reimannsarah45@gmail.com
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=reimannsarah&style=flat-square&color=blue" alt=""/>
-</div>
 
 
 
