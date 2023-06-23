@@ -7,16 +7,20 @@
   <img src="./imgs/mountains.gif">
 </a>
 </div>
+
 # Sarah Reimann
 
-### About me:
+### :woman_technologist: About me:
 
 ### How to reach me:
 * reimannsarah45@gmail.com
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=reimannsarah&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 
 
 
