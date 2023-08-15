@@ -27,7 +27,7 @@
 # Sarah Reimann
 
 ### :woman_technologist: About me:
-- :telescope: Internin at Olio Apps
+- :telescope: Interning at Olio Apps
   * I've learned Javascript, C#, and React
   * I'm interested in design! 
 
