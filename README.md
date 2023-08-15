@@ -27,11 +27,11 @@
 # Sarah Reimann
 
 ### :woman_technologist: About me:
-- :telescope: I’m in school to become a full stack web developer
+- :telescope: Internin at Olio Apps
   * I've learned Javascript, C#, and React
   * I'm interested in design! 
 
-- :seedling: Exploring functioning programming and UI design
+- :seedling: Exploring functional programming and UI design
 
 - :zap: In my free time, I read murder mysteries, make art, and I run for fun
 
